@@ -1,1 +1,1 @@
-this is javascript, dont mess around if you dont know waht you are doing
+this is javascript, dont mess around if you dont know whatt you are doing
